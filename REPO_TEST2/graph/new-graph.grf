@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Graph author="fcrawford" created="Tue May 01 08:57:26 AEST 2018" guiVersion="4.8.0" id="1525132764074" licenseCode="CLP1DKPMGA85019056BY" name="new-graph" showComponentDetails="true">
+<Global>
+<GraphParameters>
+<GraphParameterFile fileURL="workspace.prm"/>
+</GraphParameters>
+<Dictionary/>
+</Global>
+<Phase number="0">
+<Node guiName="CheckForeignKey" guiX="356" guiY="366" id="CHECK_FOREIGN_KEY" type="CHECK_FOREIGN_KEY"/>
+</Phase>
+</Graph>
