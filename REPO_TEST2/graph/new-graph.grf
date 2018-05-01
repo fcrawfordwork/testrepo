@@ -7,7 +7,6 @@
 <Dictionary/>
 </Global>
 <Phase number="0">
-<Node guiName="CheckForeignKey" guiX="527" guiY="357" id="CHECK_FOREIGN_KEY" type="CHECK_FOREIGN_KEY"/>
 <Node guiName="CloverDataReader" guiX="506" guiY="136" id="CLOVER_DATA_READER" type="CLOVER_READER"/>
 </Phase>
 </Graph>
