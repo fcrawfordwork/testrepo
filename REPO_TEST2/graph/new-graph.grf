@@ -7,6 +7,7 @@
 <Dictionary/>
 </Global>
 <Phase number="0">
+<Node guiName="Aggregate" guiX="206" guiY="272" id="AGGREGATE" type="AGGREGATE"/>
 <Node guiName="CloverDataReader" guiX="506" guiY="136" id="CLOVER_DATA_READER" type="CLOVER_READER"/>
 </Phase>
 </Graph>
